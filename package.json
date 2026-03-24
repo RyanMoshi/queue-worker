@@ -1,0 +1,16 @@
+{
+  "name": "queue-worker",
+  "version": "1.0.0",
+  "description": "Background job queue processor",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "queue",
+    "worker"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
